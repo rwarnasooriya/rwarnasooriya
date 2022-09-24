@@ -37,6 +37,8 @@
 </div>
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwarnasooriya&layout=compact&theme=vision-friendly-dark)
-
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rwarnasooriya)](https://git.io/streak-stats) -->
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=rwarnasooriya)](https://github.com/rwarnasooriya)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwarnasooriya&layout=compact)](https://github.com/rwarnasooriya)
